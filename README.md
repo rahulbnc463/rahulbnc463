@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Website Designing**
 
-- 👨‍💻 All of my projects are available at [https://rahulbnc463.github.io/](update soon...)
+- 👨‍💻 All of my projects are available at https://rahulbnc463.github.io/
 
 - 💬 Ask me about **React CSS HTML JavaScript etc.**
 
