@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulbnc463&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbnc463" /> </p>
 
 
-<!-- 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/rdeb463" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rdeb463?logo=twitter&style=for-the-badge" alt="https://twitter.com/rdeb463" /></a> </p> -->
+
+<p align="left">A self-motivated, hard-working and ambitious Full Stack Web Developer with proficiency in HTML,CSS,JavaScript and React. Problem-solving mindset and ability to perform well in collaboration. 1200+ hours of coding and hands-on experience in developing 4 fully functional projects. 100+ hours of holistic development which helped in developing about 20+ mini projects. Looking forward to work as an accountable and competent employee in a tech company. </p>
 
 - 🌱 I’m currently learning **Website Designing**
 
