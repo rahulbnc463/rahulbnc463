@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulbnc463&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbnc463" /> </p>
 
 
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/rdeb463" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rdeb463?logo=twitter&style=for-the-badge" alt="https://twitter.com/rdeb463" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://twitter.com/https://twitter.com/rdeb463" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rdeb463?logo=twitter&style=for-the-badge" alt="https://twitter.com/rdeb463" /></a> </p> -->
 
 - 🌱 I’m currently learning **Website Designing**
 
