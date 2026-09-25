@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Website Designing**
 
-- 👨‍💻 All of my projects are available at https://rahuldeb.vercel.app/
+- 👨‍💻 All of my projects are available at https://rahuldeb.in/
 
 - 💬 Ask me about **React CSS HTML JavaScript etc.**
 
